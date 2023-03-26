@@ -1,5 +1,3 @@
-#include "num.hpp"
-#include "rat.hpp"
 #include <stdio.h>
 #include <string>
 #include <iostream>
